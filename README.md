@@ -20,4 +20,4 @@ A clean and minimal LaTeX template for individual assignments. It includes:
 - Course details  
 - Student information
 
-**File:** [PDF](Assignment Template(Single)/Assignment_single_submission.pdf)  
+**File:** [PDF](Assignment%20Template(Single)/Assignment_single_submission.pdf)  
