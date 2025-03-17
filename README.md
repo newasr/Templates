@@ -1,2 +1,6 @@
-# Templates
-Some templates i use for my university stuff
+# LaTeX Templates
+
+A collection of LaTeX templates for assignments, reports, and projects.
+
+
+
