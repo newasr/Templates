@@ -21,3 +21,18 @@ A clean and minimal LaTeX template for individual assignments. It includes:
 - Student information
 
 **File:** [PDF](Assignment%20Template(Single)/Assignment_single_submission.pdf)  
+
+
+### Assignment Template (Group Submission) 
+A clean and minimal LaTeX template for individual assignments. It includes:  
+- Course details  
+- Student information
+
+**File:** [PDF](Assignment%20Template(Single)/Assignment_single_submission.pdf)  
+
+### Assignment Template (Group Submission)
+A LaTeX template for group assignments, including:  
+- Course details  
+- Team Details
+
+**File:** [PDF](Assignment%20(Group%20Submission)/Assignment_Group_Submission_.pdf)  
