@@ -24,7 +24,7 @@ A clean and minimal LaTeX template for individual assignments. It includes:
 
 
 ### Assignment Template (Group Submission) 
-A clean and minimal LaTeX template for individual assignments. It includes:  
+A LaTeX template for group assignments, including:  
 - Course details  
 - Student information
 
